@@ -1,0 +1,18 @@
+/* @keyframes body {
+    from {background-color:deeppink;}
+    to {background-color:fuchsia;}
+} */
+body{
+    background-color:mediumpurple;
+    text-align: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+img {
+    height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
